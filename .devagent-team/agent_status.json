@@ -8,17 +8,17 @@
     "status": "",
     "summary": "",
     "capacity": 20.0,
-    "updated_at": 1783189029.177464
+    "updated_at": 1783189089.998083
   },
   "devagent-aman-2": {
     "agent": "devagent-aman-2",
     "account": "712020:73a62264-d8e3-426a-93d0-e0d6616b2472",
-    "ticket": "SCRUM-162",
-    "repo": "anubhav2707/ridenow",
-    "phase": "phase2_proposal",
-    "status": "in_review",
-    "summary": "Build RideNow \u2014 a NEW ride-hailing platform from scratch (founding)",
+    "ticket": "",
+    "repo": null,
+    "phase": "",
+    "status": "",
+    "summary": "",
     "capacity": 20.0,
-    "updated_at": 1783189075.690762
+    "updated_at": 1783189143.0214841
   }
 }
